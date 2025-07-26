@@ -1,0 +1,78 @@
+[
+    {
+        "Title" : "Overview",
+        "Content" : "Our team is focused on the recruitment of Board Members, CEOs and executive leaders across all major functional disciplines, including commercial, finance, corporate development, human resources, R&D, medical, regulatory and technical operations. Our clients are innovative emerging and established therapeutics companies leading the way towards the discovery, development and commercialization of cutting-edge medicines to treat critically ill patients. We work with organizations at every stage of corporate formation and evolution: from startup through commercialization, private to public, and across all therapeutic areas and modalities.",
+        "DisplayOrder" : 1,
+        "CompanyExpertiseId" : 1    
+    },
+
+    {
+        "Title" : "Stealth Mode Companies",
+        "Content" : "We partner with companies at their earliest stages of development to build out leadership teams, expanding upon the expertise of the original scientific founders, and adding competencies throughout the entire C-level. We understand how to attract seasoned industry leaders to complement the scientific luminaries who form this sector’s most exciting companies.",
+        "DisplayOrder" : 2,
+        "CompanyExpertiseId" : 1    
+    },
+
+    {
+        "Title" : "Private to Public",
+        "Content" : "As our clients prepare for their IPOs, we engage with them regarding Board and management team evolution, always with an emphasis on creating and fostering greater diversity in knowledge, perspective, experience and background.",
+        "DisplayOrder" : 3,
+        "CompanyExpertiseId" : 1    
+    },
+
+    {
+        "Title" : "R&D to Commercial",
+        "Content" : "We are retained when companies are planning to grow beyond a purely R&D focus into a fully integrated, commercial enterprise. We have demonstrated expertise identifying executives who will successfully lead through this transition, develop increased organizational capabilities and scale, and help to create a collaborative, cross functional, efficient and culturally aligned team.",
+        "DisplayOrder" : 4,
+        "CompanyExpertiseId" : 1    
+    },
+
+    {
+        "Title" : "Investors",
+        "Content" : "We work with today’s leading venture, family office and private equity investors to build their biopharma portfolio companies and bring transformative science from the laboratory to patients.",
+        "DisplayOrder" : 5,
+        "CompanyExpertiseId" : 1    
+    },
+
+    {
+        "Title" : "Overview",
+        "Content" : "The Leadership Advisory team is lead by Dr. Julie Bell who specializes in peak performance and creating high performing teams. Lindsey and Martha round out the team to bring excellence in research, gap analysis and client management.",
+        "DisplayOrder" : 1,
+        "CompanyServiceId" : 3   
+    },
+
+    {
+        "Title" : "Succession Planning",
+        "Content" : "Our team is focused on the placement and development of the right people in the right place at the right time. We identify where you are now and where you want to be in five to ten years then create a people map that aligns with those desired results.",
+        "DisplayOrder" : 2,
+        "CompanyServiceId" : 3    
+    },
+
+    {
+        "Title" : "Board Advisory",
+        "Content" : "Every institution is unique both in culture and business objectives. This is why we invest in each client relationship and tailor our process based on your specific needs and desired board outcomes. At Chartwell Partners, we offer Board Assessment, Board Advisory and Board Director Recruitment.",
+        "DisplayOrder" : 3,
+        "CompanyServiceId" : 3    
+    },
+
+    {
+        "Title" : "Executive Assessment",
+        "Content" : "Assessments give you a well-rounded picture of where you are now with specific insights to develop leaders and drive results. Our CP Power 4 Assessment includes Online Assessments, Qualitative Research, Performance Intelligence and data from your organization.",
+        "DisplayOrder" : 4,
+        "CompanyServiceId" : 3  
+    },
+
+    {
+        "Title" : "Executive Onboarding",
+        "Content" : "Will your organization Play to Win or Play Not to Lose during the executive transition? Our Executive Onboard Coaching accelerates integration by creating a readiness to receive within the organization and a Winning Game Plan for the first 90 days of your new hire's tenure.",
+        "DisplayOrder" : 5,
+        "CompanyServiceId" : 3   
+    },
+
+    {
+        "Title" : "Executive Coaching",
+        "Content" : "Being your best every day is hard when you do it alone. That is why we see double digit growth in Executive Coaching with consistently reported ROI of 500%. Are you able to perform your best when it matters most? Do you consistently have 100% confidence when you need it? Is that voice in your head bringing out your best?",
+        "DisplayOrder" : 6,
+        "CompanyServiceId" : 3   
+    }
+]

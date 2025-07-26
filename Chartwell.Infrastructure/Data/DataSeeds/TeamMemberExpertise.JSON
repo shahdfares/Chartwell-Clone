@@ -1,0 +1,93 @@
+[
+    {
+        "TeamMemberId" : 1,
+        "CompanyExpertiseId" : 1,
+        "DisplayOrder" : 1,
+        "RoleTitle" : "PARTNER"
+    },
+
+    {
+        "TeamMemberId" : 2,
+        "CompanyExpertiseId" : 1,
+        "DisplayOrder" : 2,
+        "RoleTitle" : "PARTNER"
+    },
+
+    {
+        "TeamMemberId" : 3,
+        "CompanyExpertiseId" : [2,3],
+        "DisplayOrder" : 3,
+        "RoleTitle" : "PARTNER"
+    },
+    
+    {
+        "TeamMemberId" : 4,
+        "CompanyExpertiseId" : [2,3],
+        "DisplayOrder" : 4,
+        "RoleTitle" : "Managing Partner"
+    },
+    
+    {
+        "TeamMemberId" : 5,
+        "CompanyExpertiseId" : [1,4],
+        "DisplayOrder" : 5,
+        "RoleTitle" : "PARTNER"
+    },
+
+    {
+        "TeamMemberId" : 6,
+        "CompanyExpertiseId" : [2,3],
+        "DisplayOrder" : 6,
+        "RoleTitle" : "Senior Associate"
+    },
+
+    {
+        "TeamMemberId" : 7,
+        "CompanyExpertiseId" : [2,3],
+        "DisplayOrder" : 7,
+        "RoleTitle" : "Associate"
+    },
+
+    {
+    "TeamMemberId" : 8,
+    "CompanyExpertiseId" : 2,
+    "DisplayOrder" : 8,
+    "RoleTitle" : "Head of Research"
+    },
+
+    {
+    "TeamMemberId" : 9,
+    "CompanyExpertiseId" : "",
+    "DisplayOrder" : 9,
+    "RoleTitle" : "Research Associate"
+    },
+
+    {
+    "TeamMemberId" : 10,
+    "CompanyExpertiseId" : [2,3],
+    "DisplayOrder" : 10,
+    "RoleTitle" : "Senior Associate"
+    },
+
+        
+    {
+    "TeamMemberId" : 11,
+    "CompanyExpertiseId" : 1,
+    "DisplayOrder" : 11,
+    "RoleTitle" : "Senior Associate"
+    },
+
+    {
+    "TeamMemberId" : 12,
+    "CompanyExpertiseId" : [2,3],
+    "DisplayOrder" : 12,
+    "RoleTitle" : "Administrative"
+    }, 
+
+    {
+    "TeamMemberId" : 13,
+    "CompanyExpertiseId" : [2,3],
+    "DisplayOrder" : 13,
+    "RoleTitle" : "Administrative"
+    }
+]

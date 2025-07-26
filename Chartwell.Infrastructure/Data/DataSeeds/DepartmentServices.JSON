@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "Consultants",
+        "Description": "Senior search professionals directly managing client engagements and candidate placements."
+    },
+
+    {
+        "Name": "Associates",
+        "Description": "Team members who support consultants with candidate research, coordination, and search execution."
+    },
+
+    {
+    
+        "Name": "Administrative Team",
+        "Description": "Operations and administrative professionals ensuring smooth execution of search processes."
+    }
+    
+]

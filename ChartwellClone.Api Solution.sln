@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartwellClone.Api", "ChartwellClone.Api\ChartwellClone.Api.csproj", "{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chartwell.Core", "Chartwell.Core\Chartwell.Core.csproj", "{89EC4848-F5C2-49DB-B1C4-80788401A092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chartwell.Application", "Chartwell.Application\Chartwell.Application.csproj", "{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chartwell.Infrastructure", "Chartwell.Infrastructure\Chartwell.Infrastructure.csproj", "{9F731DF4-782A-476C-94B0-6310ED71A439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EC4848-F5C2-49DB-B1C4-80788401A092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC4848-F5C2-49DB-B1C4-80788401A092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC4848-F5C2-49DB-B1C4-80788401A092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC4848-F5C2-49DB-B1C4-80788401A092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F731DF4-782A-476C-94B0-6310ED71A439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F731DF4-782A-476C-94B0-6310ED71A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F731DF4-782A-476C-94B0-6310ED71A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F731DF4-782A-476C-94B0-6310ED71A439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27DAA14-7F50-413B-80A6-553E9A72CE34}
+	EndGlobalSection
+EndGlobal

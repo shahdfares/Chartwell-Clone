@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Biopharmaceuticals",
+    "Description": "Biopharmaceutical companies have been facing turbulent times, grappling with financing uncertainty, heightened M&A activity, and increased scrutiny on pipeline developments and program stages. However, amidst these challenges, the demand for strong leadership remains robust. Now more than ever, companies require seasoned, strategic executives equipped with the insights and perspectives to navigate this complexity.\n\nEach of our Partners brings over 30 years of invaluable relationships and networks within the biopharma industry. At Chartwell Partners, we collaborate closely with our clients to recruit exceptional management teams and Boards of Directors. Together, we strive to ensure that our clients are equipped with the talent and expertise necessary to thrive in today's dynamic, yet challenging, landscape.\n\nOur results are industry leading and reflect our hands-on, Partner led approach:\n• Average days to search completion – 85\n• Placement retention rate – 96%\n• 87% repeat clients\n• Over 55% diversity recruitments",
+    "pictureUrl": "images/expertise/Biopharmaceuticals.png"
+  },
+
+  {
+    "Name": "Financial Services",
+    "Description": "The Financial Services industry is ever changing, consolidating, and undergoing a dramatic shift in leadership talent needs. Our Financial Services executive search team anticipates tomorrow’s leadership challenges today, and our deep industry insight enables us to introduce “next-level” leaders to our clients.\n\nOur well-resourced team has global executive search firm experience and decades of financial services industry expertise. Our offering provides a best-in-class executive search strategy coupled with the tailored, industry-focused expertise and market intelligence our clients expect, enabling us to advise our clients on organizational and business insights beyond just hiring a person.",
+    "pictureUrl": "images/expertise/Financial-Services.png"
+  },
+
+  {
+    "Name": "Real Estate",
+    "Description": "We partner with real estate organizations to recruit leaders who can drive growth, manage assets effectively, and navigate a fast-evolving market with confidence.",
+    "pictureUrl": "images/expertise/Real-Estate.png"
+  },
+
+  {
+    "Name": "Consumer Healthcare",
+    "Description": "The Consumer Healthcare sector focuses on recruiting leaders who drive innovation in over-the-counter products and wellness solutions.",
+    "pictureUrl": "images/expertise/Consumer-Healthcare.png"
+  }
+]

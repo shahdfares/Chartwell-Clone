@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\OurFirm\\our-firm.png",
+      "PackagePath": "staticwebassets\\images\\OurFirm\\our-firm.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\expertise\\Biopharmaceuticals.png",
+      "PackagePath": "staticwebassets\\images\\expertise\\Biopharmaceuticals.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\expertise\\Financial-Services.png",
+      "PackagePath": "staticwebassets\\images\\expertise\\Financial-Services.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\expertise\\Real-Estate.png",
+      "PackagePath": "staticwebassets\\images\\expertise\\Real-Estate.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\icons\\Biopharmaceuticals.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Biopharmaceuticals.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\icons\\Financial-Services.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Financial-Services.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\icons\\Real-Estate.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Real-Estate.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\service\\board-services.png",
+      "PackagePath": "staticwebassets\\images\\service\\board-services.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\service\\executive-search.png",
+      "PackagePath": "staticwebassets\\images\\service\\executive-search.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\service\\leadership-advisory.png",
+      "PackagePath": "staticwebassets\\images\\service\\leadership-advisory.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Amy-Maloney.png",
+      "PackagePath": "staticwebassets\\images\\team\\Amy-Maloney.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Byers-Hellinghausen.png",
+      "PackagePath": "staticwebassets\\images\\team\\Byers-Hellinghausen.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Hanna-Im-Lee.png",
+      "PackagePath": "staticwebassets\\images\\team\\Hanna-Im-Lee.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Jackson-Beall.png",
+      "PackagePath": "staticwebassets\\images\\team\\Jackson-Beall.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Lindsey-Hoesterey.png",
+      "PackagePath": "staticwebassets\\images\\team\\Lindsey-Hoesterey.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Martha-Campbell.png",
+      "PackagePath": "staticwebassets\\images\\team\\Martha-Campbell.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\McCall-Adams.png",
+      "PackagePath": "staticwebassets\\images\\team\\McCall-Adams.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\Suzanne-Watson.png",
+      "PackagePath": "staticwebassets\\images\\team\\Suzanne-Watson.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\amy-bottoms.png",
+      "PackagePath": "staticwebassets\\images\\team\\amy-bottoms.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\ellen-travers.png",
+      "PackagePath": "staticwebassets\\images\\team\\ellen-travers.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\j-scott-petty.png",
+      "PackagePath": "staticwebassets\\images\\team\\j-scott-petty.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\julie_bell.png",
+      "PackagePath": "staticwebassets\\images\\team\\julie_bell.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\sarah-hagar.png",
+      "PackagePath": "staticwebassets\\images\\team\\sarah-hagar.png"
+    },
+    {
+      "Id": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\wwwroot\\images\\team\\sean-oneal.png",
+      "PackagePath": "staticwebassets\\images\\team\\sean-oneal.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChartwellClone.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChartwellClone.Api.props",
+      "PackagePath": "build\\ChartwellClone.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChartwellClone.Api.props",
+      "PackagePath": "buildMultiTargeting\\ChartwellClone.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChartwellClone.Api.props",
+      "PackagePath": "buildTransitive\\ChartwellClone.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

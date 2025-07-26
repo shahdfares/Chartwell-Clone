@@ -1,0 +1,76 @@
+[
+  {
+    "Title": "Stealth Mode Companies",
+    "DisplayOrder": 1,
+    "IndustryId": 1
+  },
+
+  {
+    "Title": "Private to Public",
+    "DisplayOrder": 2,
+    "IndustryId": 1
+  },
+
+  {
+    "Title": "R&D to Commercial",
+    "DisplayOrder": 3,
+    "IndustryId": 1
+  },
+
+  {
+    "Title": "Investors",
+    "DisplayOrder": 4,
+    "IndustryId": 1
+  },
+
+  {
+    "Title": "Commercial, Community and Private Banking",
+    "DisplayOrder": 1,
+    "IndustryId": 2
+  },
+
+  {
+    "Title": "Mortgage",
+    "DisplayOrder": 2,
+    "IndustryId": 2
+  },
+
+
+  {
+    "Title": "Wealth Management",
+    "DisplayOrder": 3,
+    "IndustryId": 2
+  },
+
+
+  {
+    "Title": "Fintech",
+    "DisplayOrder": 4,
+    "IndustryId": 2
+  },
+
+  {
+    "Title": "Institutional",
+    "DisplayOrder": 4,
+    "IndustryId": 3
+  },
+
+  {
+    "Title": "Private",
+    "DisplayOrder": 3,
+    "IndustryId": 3
+  },
+
+  {
+    "Title": "Single Family Rental",
+    "DisplayOrder": 2,
+    "IndustryId": 3
+  },
+
+  {
+    "Title": "Homebuilders",
+    "DisplayOrder": 1,
+    "IndustryId": 3
+  }
+
+]

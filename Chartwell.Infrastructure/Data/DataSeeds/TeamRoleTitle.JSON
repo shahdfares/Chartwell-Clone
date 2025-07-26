@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "Partner",
+    "OurFirmId" :  1
+  },
+  {
+    "Name": "Managing Partner",
+    "OurFirmId": 1
+  },
+  {
+    "Name": "Associate",
+    "OurFirmId": 1
+  },
+  {
+    "Name": "Senior Associate",
+    "OurFirmId": 1
+  },
+
+  {
+    "Name": "Head of Research",
+    "OurFirmId": 1
+  },
+  {
+    "Name": "Senior Consultant",
+    "OurFirmId": 1
+  },
+  {
+    "Name": "Consultant",
+    "OurFirmId": 1
+  },
+  {
+    "Name": "Administrative",
+    "OurFirmId": 1
+  }
+
+]

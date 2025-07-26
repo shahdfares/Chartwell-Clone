@@ -1,0 +1,33 @@
+[
+    {
+    "MainOfficeAddress": "300 Crescent Court, Suite 1425",
+    "City": "Dallas",
+    "Country": "USA",
+    "CompanyInfoId" : 1
+    },
+
+    {
+        "OtherLocations" : "Philadelphia",
+        "CompanyInfoId" : 1
+    },
+
+    {
+        "OtherLocations" : "Atlanta",
+        "CompanyInfoId" : 1
+    },
+
+    {
+        "OtherLocations" : "New York City",
+        "CompanyInfoId" : 1
+    },
+
+    {
+        "OtherLocations" : "San Antonio",
+        "CompanyInfoId" : 1
+    },
+
+    {
+        "OtherLocations" : "Seattle",
+        "CompanyInfoId" : 1
+    }
+]

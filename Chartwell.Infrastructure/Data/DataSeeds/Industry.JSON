@@ -1,0 +1,18 @@
+[
+    {
+    "Name": "Biopharmaceuticals",
+    "IconUrl": "images/icons/Biopharmaceuticals.png",
+    "CompanyServiceId": 1
+  },
+  {
+    "Name": "Financial Services",
+    "IconUrl": "images/icons/Financial-Services.png",
+    "CompanyServiceId": 1
+  },
+  {
+    "Name": "Real Estate",
+    "IconUrl": "images/icons/Real-Estate.png",
+    "CompanyServiceId": 1
+  }
+ 
+]

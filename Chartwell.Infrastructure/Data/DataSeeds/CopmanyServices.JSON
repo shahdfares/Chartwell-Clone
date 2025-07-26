@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Executive Search",
+    "Title": "A retained executive search firm dedicated to identifying exceptional leaders.",
+    "PictureUrl": "images/service/executive-search.png"
+  },
+
+  {
+    "Name": "Board Services",
+    "Title": "Board Services",
+    "PictureUrl": "images/service/board-services.png"
+  },
+
+  {
+    "Name": "Leadership Advisory",
+    "Title": "Leadership Advisory",
+    "ShortDescription": "The Leadership Advisory team partners with our industry experts to serve all practice areas of Chartwell Partners. We oﬀer Executive Assessment, Board Advisory, Executive Onboard Coaching and Executive Coaching in combination with search or as stand alone services.",
+    "PictureUrl": "images/service/leadership-advisory.png"
+  }
+]
