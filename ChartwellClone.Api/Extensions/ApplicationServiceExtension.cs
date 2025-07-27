@@ -1,8 +1,10 @@
-﻿using Chartwell.Application.CompanyExpertisesServices;
+﻿using Chartwell.Application.CacheServices;
+using Chartwell.Application.CompanyExpertisesServices;
 using Chartwell.Application.CompanyInfoServices;
 using Chartwell.Application.CompanyServices;
 using Chartwell.Application.ContactsUsServices;
 using Chartwell.Application.ExpertiseNewsServices;
+using Chartwell.Application.IdentityServices;
 using Chartwell.Application.IndustryServices;
 using Chartwell.Application.OurFirms;
 using Chartwell.Application.OverViewServices;
@@ -10,11 +12,14 @@ using Chartwell.Application.SubIndustriesService;
 using Chartwell.Application.TeamMemberService;
 using Chartwell.Application.TeamRolesTitle;
 using Chartwell.Core.DTOs.Helper;
+using Chartwell.Core.Entity.Identity;
+using Chartwell.Core.Services.Contract.CacheServices;
 using Chartwell.Core.Services.Contract.CompanyExpertises;
 using Chartwell.Core.Services.Contract.CompanyInfoServices;
 using Chartwell.Core.Services.Contract.CompanyServices;
 using Chartwell.Core.Services.Contract.ContactUsServices;
 using Chartwell.Core.Services.Contract.EXpertiseNewsServices;
+using Chartwell.Core.Services.Contract.IdentityServices;
 using Chartwell.Core.Services.Contract.Industries;
 using Chartwell.Core.Services.Contract.OurFirms;
 using Chartwell.Core.Services.Contract.OverViewSectionServices;
@@ -22,9 +27,12 @@ using Chartwell.Core.Services.Contract.SubIndustryServices;
 using Chartwell.Core.Services.Contract.TeamMemberService;
 using Chartwell.Core.Services.Contract.TeamRoleTitleServices;
 using Chartwell.Infrastructure.Data;
+using Chartwell.Infrastructure.Data.Identity.Context;
 using ChartwellClone.Api.Errors;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 
 namespace ChartwellClone.Api.Extensions
 {
@@ -38,6 +46,7 @@ namespace ChartwellClone.Api.Extensions
             services.AddDbContextServices(configuration);
             services.AddUserDefinedService();
             services.AddAutoMapperServices();
+            services.AddRedisServices(configuration);
 
             return services;
         }
@@ -88,6 +97,10 @@ namespace ChartwellClone.Api.Extensions
 
             );
 
+            services.AddDbContext<ChartwellIdentityDbContext>(options =>
+
+          options.UseSqlServer(configuration.GetConnectionString("IdentityConnection")));
+
             return services;
         }
         private static IServiceCollection AddUserDefinedService(this IServiceCollection services)
@@ -110,6 +123,9 @@ namespace ChartwellClone.Api.Extensions
             services.AddScoped(typeof(ISubIndustryService), typeof(SubIndustryService));
             services.AddScoped(typeof(IContactUsService), typeof(ContactUsService));
             services.AddScoped(typeof(IExpertiseNewsService), typeof(ExpertiseNewsService));
+            services.AddScoped(typeof(IAuthService), typeof(AuthService));
+            services.AddScoped(typeof(IUserService), typeof(UserService));
+            services.AddScoped(typeof(ICacheService), typeof(CacheService));
 
             return services;
         }
@@ -117,6 +133,19 @@ namespace ChartwellClone.Api.Extensions
         {
 
             services.AddAutoMapper(typeof(MappingProfile));
+
+            return services;
+        }
+
+        private static IServiceCollection AddRedisServices(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddSingleton<IConnectionMultiplexer>((serverProvider) =>
+            {
+                // Add Connection String
+                var connection = configuration.GetConnectionString("Redis");
+
+                return ConnectionMultiplexer.Connect(connection);
+            });
 
             return services;
         }

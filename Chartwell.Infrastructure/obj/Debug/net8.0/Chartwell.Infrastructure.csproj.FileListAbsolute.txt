@@ -35,3 +35,4 @@ D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Infrastruct
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Infrastructure\obj\Debug\net8.0\refint\Chartwell.Infrastructure.dll
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Infrastructure\obj\Debug\net8.0\Chartwell.Infrastructure.pdb
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Infrastructure\obj\Debug\net8.0\ref\Chartwell.Infrastructure.dll
+D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Infrastructure\obj\Debug\net8.0\Chartwell.Infrastructure.sourcelink.json

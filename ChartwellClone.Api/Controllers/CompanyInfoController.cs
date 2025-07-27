@@ -2,6 +2,7 @@
 using Chartwell.Core.DTOs.CompanyINFO;
 using Chartwell.Core.Entity.Company;
 using Chartwell.Core.Services.Contract.CompanyInfoServices;
+using ChartwellClone.Api.Attributes;
 using ChartwellClone.Api.Errors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -29,6 +30,7 @@ namespace ChartwellClone.Api.Controllers
 
         [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(CompanyInfoToReturnDTO), StatusCodes.Status200OK)]
+        [Cache(100)]
         [HttpPut]
         public async Task<ActionResult<CompanyInfoToReturnDTO>> UpdateAsync(CompanyInfoDTO companyInfoDTO)
         {

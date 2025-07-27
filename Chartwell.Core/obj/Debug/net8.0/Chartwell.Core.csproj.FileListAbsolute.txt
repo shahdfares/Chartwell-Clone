@@ -21,3 +21,4 @@ D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Core\obj\De
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Core\obj\Debug\net8.0\refint\Chartwell.Core.dll
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Core\obj\Debug\net8.0\Chartwell.Core.pdb
 D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Core\obj\Debug\net8.0\ref\Chartwell.Core.dll
+D:\API Projects\ChartwellClone\ChartwellClone.Api Solution\Chartwell.Core\obj\Debug\net8.0\Chartwell.Core.sourcelink.json

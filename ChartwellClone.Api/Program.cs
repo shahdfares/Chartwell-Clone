@@ -13,6 +13,7 @@ namespace ChartwellClone.Api
             #region Configuration Services
           
             webApplicationBuilder.Services.AddApplicationService(webApplicationBuilder.Configuration);
+            webApplicationBuilder.Services.AddIdentityServices(webApplicationBuilder.Configuration);
 
             #endregion
 

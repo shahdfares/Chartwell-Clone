@@ -1,12 +1,632 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\teamroletitlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\teamroletitlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\subindustrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\subindustrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\ourfirmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\ourfirmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\industrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\industrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\expertisenewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\expertisenewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\companyservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\companyservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\companyinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\companyexpertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\companyexpertisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\chartwellclone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\chartwellclone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.application\\cacheservices\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|solutionrelative:chartwell.application\\cacheservices\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\services.contract\\cacheservices\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\services.contract\\cacheservices\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\extensions\\identityservicesextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\extensions\\identityservicesextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.application\\identityservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|solutionrelative:chartwell.application\\identityservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.application\\identityservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|solutionrelative:chartwell.application\\identityservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.application\\chartwell.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17A8192A-CAC7-46EA-A22F-FE4EECD5F5B3}|Chartwell.Application\\Chartwell.Application.csproj|solutionrelative:chartwell.application\\chartwell.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.infrastructure\\data\\chartwelldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|solutionrelative:chartwell.infrastructure\\data\\chartwelldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.infrastructure\\data\\identity\\dataseeds\\chartwellidentitycontextseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|solutionrelative:chartwell.infrastructure\\data\\identity\\dataseeds\\chartwellidentitycontextseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwellclone.api\\extensions\\middlewareconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9E033-3E3F-4F68-9606-5CCC689A8C59}|ChartwellClone.Api\\ChartwellClone.Api.csproj|solutionrelative:chartwellclone.api\\extensions\\middlewareconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.infrastructure\\data\\identity\\context\\chartwellidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|solutionrelative:chartwell.infrastructure\\data\\identity\\context\\chartwellidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\services.contract\\identityservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\services.contract\\identityservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\services.contract\\identityservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\services.contract\\identityservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\entity\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\entity\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\dtos\\identity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\dtos\\identity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\dtos\\identity\\registerationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\dtos\\identity\\registerationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\dtos\\identity\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\dtos\\identity\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.core\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EC4848-F5C2-49DB-B1C4-80788401A092}|Chartwell.Core\\Chartwell.Core.csproj|solutionrelative:chartwell.core\\entity\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|d:\\api projects\\chartwellclone\\chartwellclone.api solution\\chartwell.infrastructure\\data\\identity\\migrations\\20250726222252_chartwellidentitymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F731DF4-782A-476C-94B0-6310ED71A439}|Chartwell.Infrastructure\\Chartwell.Infrastructure.csproj|solutionrelative:chartwell.infrastructure\\data\\identity\\migrations\\20250726222252_chartwellidentitymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubIndustryController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\SubIndustryController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\SubIndustryController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\SubIndustryController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\SubIndustryController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverViewController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\OverViewController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\OverViewController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\OverViewController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\OverViewController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OurFirmController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\OurFirmController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\OurFirmController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\OurFirmController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\OurFirmController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndustryController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\IndustryController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\IndustryController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\IndustryController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\IndustryController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:15.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Program.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Program.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:18:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:18:19.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamRoleTitleController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\TeamRoleTitleController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\TeamRoleTitleController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\TeamRoleTitleController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\TeamRoleTitleController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:59:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpertiseNewsController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ExpertiseNewsController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\ExpertiseNewsController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ExpertiseNewsController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\ExpertiseNewsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:02.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\ErrorsController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\ErrorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:58:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\ContactUsController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:57:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyServiceController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyServiceController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\CompanyServiceController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyServiceController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\CompanyServiceController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:57:35.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyInfoController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyInfoController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\CompanyInfoController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyInfoController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\CompanyInfoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:57:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Attributes\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Attributes\\CacheAttribute.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Attributes\\CacheAttribute.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Attributes\\CacheAttribute.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:55:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChartwellClone.Api",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\ChartwellClone.Api.csproj",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\ChartwellClone.Api.csproj",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\ChartwellClone.Api.csproj",
+              "RelativeToolTip": "ChartwellClone.Api\\ChartwellClone.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-27T12:40:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyExpertiseController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyExpertiseController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\CompanyExpertiseController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\CompanyExpertiseController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\CompanyExpertiseController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:34:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\CacheServices\\CacheService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Application\\CacheServices\\CacheService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\CacheServices\\CacheService.cs",
+              "RelativeToolTip": "Chartwell.Application\\CacheServices\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:25:47.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\CacheServices\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\Services.Contract\\CacheServices\\ICacheService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\CacheServices\\ICacheService.cs",
+              "RelativeToolTip": "Chartwell.Core\\Services.Contract\\CacheServices\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:24:46.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:13:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Chartwell.Application",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\Chartwell.Application.csproj",
+              "RelativeDocumentMoniker": "Chartwell.Application\\Chartwell.Application.csproj",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\Chartwell.Application.csproj",
+              "RelativeToolTip": "Chartwell.Application\\Chartwell.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-27T12:06:50.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\appsettings.json",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\appsettings.json",
+              "RelativeToolTip": "ChartwellClone.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T22:19:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\IdentityServices\\AuthService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Application\\IdentityServices\\AuthService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\IdentityServices\\AuthService.cs",
+              "RelativeToolTip": "Chartwell.Application\\IdentityServices\\AuthService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:07:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\IdentityServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Application\\IdentityServices\\UserService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Application\\IdentityServices\\UserService.cs",
+              "RelativeToolTip": "Chartwell.Application\\IdentityServices\\UserService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:09:25.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IdentityServicesExtention.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\IdentityServicesExtention.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Extensions\\IdentityServicesExtention.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\IdentityServicesExtention.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Extensions\\IdentityServicesExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:04:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChartwellDbContext.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\ChartwellDbContext.cs",
+              "RelativeDocumentMoniker": "Chartwell.Infrastructure\\Data\\ChartwellDbContext.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\ChartwellDbContext.cs",
+              "RelativeToolTip": "Chartwell.Infrastructure\\Data\\ChartwellDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:06:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250726222252_ChartwellIdentityModule.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\Migrations\\20250726222252_ChartwellIdentityModule.cs",
+              "RelativeDocumentMoniker": "Chartwell.Infrastructure\\Data\\Identity\\Migrations\\20250726222252_ChartwellIdentityModule.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\Migrations\\20250726222252_ChartwellIdentityModule.cs",
+              "RelativeToolTip": "Chartwell.Infrastructure\\Data\\Identity\\Migrations\\20250726222252_ChartwellIdentityModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:22:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MiddlewareConfiguration.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\MiddlewareConfiguration.cs",
+              "RelativeDocumentMoniker": "ChartwellClone.Api\\Extensions\\MiddlewareConfiguration.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\ChartwellClone.Api\\Extensions\\MiddlewareConfiguration.cs",
+              "RelativeToolTip": "ChartwellClone.Api\\Extensions\\MiddlewareConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAEBUwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:21:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChartwellIdentityContextSeeds.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\DataSeeds\\ChartwellIdentityContextSeeds.cs",
+              "RelativeDocumentMoniker": "Chartwell.Infrastructure\\Data\\Identity\\DataSeeds\\ChartwellIdentityContextSeeds.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\DataSeeds\\ChartwellIdentityContextSeeds.cs",
+              "RelativeToolTip": "Chartwell.Infrastructure\\Data\\Identity\\DataSeeds\\ChartwellIdentityContextSeeds.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:11:33.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChartwellIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\Context\\ChartwellIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Chartwell.Infrastructure\\Data\\Identity\\Context\\ChartwellIdentityDbContext.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Infrastructure\\Data\\Identity\\Context\\ChartwellIdentityDbContext.cs",
+              "RelativeToolTip": "Chartwell.Infrastructure\\Data\\Identity\\Context\\ChartwellIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:09:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\UserDto.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\DTOs\\Identity\\UserDto.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\UserDto.cs",
+              "RelativeToolTip": "Chartwell.Core\\DTOs\\Identity\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:06:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterationDto.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\RegisterationDto.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\DTOs\\Identity\\RegisterationDto.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\RegisterationDto.cs",
+              "RelativeToolTip": "Chartwell.Core\\DTOs\\Identity\\RegisterationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:05:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LogInDto.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\LogInDto.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\DTOs\\Identity\\LogInDto.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\DTOs\\Identity\\LogInDto.cs",
+              "RelativeToolTip": "Chartwell.Core\\DTOs\\Identity\\LogInDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:05:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Entity\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\Entity\\Identity\\Address.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Entity\\Identity\\Address.cs",
+              "RelativeToolTip": "Chartwell.Core\\Entity\\Identity\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:02:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Entity\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\Entity\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Entity\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Chartwell.Core\\Entity\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:58:09.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\IdentityServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\Services.Contract\\IdentityServices\\IUserService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\IdentityServices\\IUserService.cs",
+              "RelativeToolTip": "Chartwell.Core\\Services.Contract\\IdentityServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:33:27.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\IdentityServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Chartwell.Core\\Services.Contract\\IdentityServices\\IAuthService.cs",
+              "ToolTip": "D:\\API Projects\\ChartwellClone\\ChartwellClone.Api Solution\\Chartwell.Core\\Services.Contract\\IdentityServices\\IAuthService.cs",
+              "RelativeToolTip": "Chartwell.Core\\Services.Contract\\IdentityServices\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:33:12.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -3,6 +3,7 @@ using Chartwell.Core.DTOs.Industries;
 using Chartwell.Core.Entity.CompanyServices;
 using Chartwell.Core.Services.Contract.Industries;
 using Chartwell.Core.Specification.IndustrySpecs;
+using ChartwellClone.Api.Attributes;
 using ChartwellClone.Api.Errors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -55,6 +56,7 @@ namespace ChartwellClone.Api.Controllers
         }
 
         [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+        [Cache(100)]
         [HttpDelete]
         public async Task<ActionResult> DeleteAsync(int? id)
         {

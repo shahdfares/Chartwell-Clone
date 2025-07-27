@@ -2,6 +2,7 @@
 using Chartwell.Core.DTOs.OurFirms;
 using Chartwell.Core.Entity.OurFirms;
 using Chartwell.Core.Services.Contract.OurFirms;
+using ChartwellClone.Api.Attributes;
 using ChartwellClone.Api.Errors;
 using Microsoft.AspNetCore.Mvc;
 
@@ -55,6 +56,7 @@ namespace ChartwellClone.Api.Controllers
         }
 
         [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+        [Cache(100)]
         [HttpDelete("admin")] // Delete : /api/OurFirm/admin
         public async Task<ActionResult> DeleteAsync(int? id)
         {

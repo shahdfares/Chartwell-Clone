@@ -5,6 +5,7 @@ using Chartwell.Core.Entity.OurFirms;
 using Chartwell.Core.Entity.TeamMembers;
 using Chartwell.Core.Services.Contract.TeamMemberService;
 using Chartwell.Core.Specification.TeamMemberSpecs;
+using ChartwellClone.Api.Attributes;
 using ChartwellClone.Api.Errors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -78,6 +79,7 @@ namespace ChartwellClone.Api.Controllers
         }
 
         [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+        [Cache(100)]
         [HttpDelete("admin")]
         public async Task<ActionResult<TeamMember>> DeleteAsync(int? id)
         {

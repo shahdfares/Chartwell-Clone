@@ -1,4 +1,7 @@
-﻿using Chartwell.Infrastructure.Data;
+﻿using Chartwell.Core.Entity.Identity;
+using Chartwell.Infrastructure.Data;
+using Chartwell.Infrastructure.Data.Identity.Context;
+using Chartwell.Infrastructure.Data.Identity.DataSeeds;
 using ChartwellClone.Api.Middleware;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -12,14 +15,21 @@ namespace ChartwellClone.Api.Extensions
             using var scope = app.Services.CreateScope();
             var service = scope.ServiceProvider;
             var _dbcontext = service.GetRequiredService<ChartwellDbContext>();    // Ask CLR to Create an Object From ChartwellDbContext Explicitly
-          
+
+            var _identityStore = service.GetRequiredService<ChartwellIdentityDbContext>();
+            var userManager = service.GetRequiredService<UserManager<AppUser>>();  
+
+
             var loggerfactort = service.GetRequiredService<ILoggerFactory>();
 
             try
             {
                await _dbcontext.Database.MigrateAsync();   // Update Database
                await ChartwellContextSeeds.SeedAsync(_dbcontext);
-                 
+
+                await _identityStore.Database.MigrateAsync();
+                await ChartwellIdentityContextSeeds.SeedAppUserAsync(userManager);
+
             }
             catch (Exception ex)
             {

@@ -3,6 +3,7 @@ using Chartwell.Core.DTOs.TeamMembers;
 using Chartwell.Core.Entity.OverViewSections;
 using Chartwell.Core.Services.Contract.OverViewSectionServices;
 using Chartwell.Core.Specification.OverViewSpecs;
+using ChartwellClone.Api.Attributes;
 using ChartwellClone.Api.Errors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -56,6 +57,7 @@ namespace ChartwellClone.Api.Controllers
         }
 
         [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+        [Cache(100)]
         [HttpDelete]
         public async Task<ActionResult<OverViewSection>> DeleteAsync(int? id)
         {
